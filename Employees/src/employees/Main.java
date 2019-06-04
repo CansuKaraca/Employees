@@ -82,7 +82,7 @@ public class Main {
         
      else {
         
-            System.out.println("Geçersiz işlem ");
+            System.out.println("invalid operation ");
         }
     
     
